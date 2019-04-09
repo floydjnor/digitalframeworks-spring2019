@@ -3,5 +3,5 @@
   3.## Digital frameworks — Summer 2018
 ### *By Sean McMinn*
 
-3.__I love cheese__
+3. __I love cheese__
 
