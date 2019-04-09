@@ -6,3 +6,7 @@
 
 3. __I love cheese__
 
+Testing | this table
+--------|------------
+content from cell 1 | content from cell 2
+second row | second row
