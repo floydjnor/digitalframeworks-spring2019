@@ -1,3 +1,3 @@
-# Assignment 2
+# Assignment 1
 
 ### due next Tuesday
