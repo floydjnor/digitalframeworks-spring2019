@@ -1,0 +1,16 @@
+A link to the dataset (which you can include in your repository), your questions, as well as the answers to those questions.
+https://data.cityofchicago.org/Community-Economic-Development/Affordable-Rental-Housing-Developments/s6ha-ppgi
+  - Which wards have the most affordable housing? - Ward 9 (3638 units), Ward 46 (2004 units), and Ward 4 (1769)
+  -Which wards have the least affordable housing? - Ward 36 (16 units)
+  -Which type of affordable housing is offered most? - Multifamily (209)
+  -Which housing type offers the most units? - Multifamily and people with disabilities
+Additionally, write down all steps used to clean and analyze the data, including any Excel formulas.
+  -I deleted unneccessary columns
+  -I checked for columns with repeated words or phrases
+  -I checked for missing data or blank boxes
+  The data was relatively clean and required little tweaking.
+Lastly, write a sample headline and nut graf based on the most interesting of the three questions.
+
+Headline:There they are! Wards with affordable housing options.
+
+Nut graf: In a city where families are leaving in droves to escape rising rent, a few Chicago wards offer thousands of affordable housing units. Most of the units citywide are offered in multifamily developments.
