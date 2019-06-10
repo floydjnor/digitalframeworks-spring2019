@@ -1,0 +1,9 @@
+I found that for the 2020 Senate races, Republicans out-raise Democrats. However, Democrats receive more individual donations. 
+To follow up on this story, I looked at the top five earning and donated to committees. I used the FEC website to obtain this data.
+In order to find my story, I did the following:
+Searched the FEC website for 2019-2020 transaction time period donations to senators.
+I downloaded this CSV and created a pivot table with the committee name (which tells me which Senator is receiving the money) and the report year as rows; values as columns — the sum of the contribution_receipt_amount and count A of the contribution_receipt_amount.
+Repeated the previous step but filtered the tables differently. I selected the five highest amounts of funding for table A and the five highest donations to a candidate for table B.
+Hed: Individual donations make Arizona Senate race competitive
+Nut graf: Republicans are bringing in more money per Senate race than Democrats but more individual donations are going to left-leaning candidates. One senate race places both candidates in the top five highest donations and top five raised funds categories.  
+Democratic challenger Mark Kelly is out-raising incumbent Senator Martha McSally in Arizona’s 2020 senate race — $2.5 million to just shy of $1 million.
